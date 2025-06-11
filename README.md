@@ -1,6 +1,6 @@
-# Striver SQL Case Study – User Login Analysis
+# SQL Case Study – User Login Analysis
 
-This project is based on the SQL case study from [Striver’s SQL playlist](https://www.youtube.com/watch?v=5kbuhoEw1Xg&list=PLBTZqjSKn0Ie0FvR3_ass_iTIqYV_CAth&index=4). 
+This project is based on the SQL case study from [Ankit Bansal’s SQL playlist](https://www.youtube.com/watch?v=5kbuhoEw1Xg&list=PLBTZqjSKn0Ie0FvR3_ass_iTIqYV_CAth&index=4). 
 It explores user login data using SQL with real-time questions and business logic.
 
 ## 📁 Files Included
@@ -23,7 +23,7 @@ It explores user login data using SQL with real-time questions and business logi
 - Date-based analysis
 
 ## 📹 Reference
-YouTube Video: [Striver SQL Case Study](https://www.youtube.com/watch?v=5kbuhoEw1Xg&list=PLBTZqjSKn0Ie0FvR3_ass_iTIqYV_CAth&index=4)
+YouTube Video: [SQL Case Study](https://www.youtube.com/watch?v=5kbuhoEw1Xg&list=PLBTZqjSKn0Ie0FvR3_ass_iTIqYV_CAth&index=4)
 
 ---
 
