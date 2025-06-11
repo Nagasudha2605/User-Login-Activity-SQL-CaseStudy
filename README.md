@@ -15,8 +15,8 @@ It explores user login data using SQL with real-time questions and business logi
 4. Quarterly % change in sessions
 5. User with highest session score each day
 6. Best users: consistent logins from first login date
-7. Dates with no logins (calendar logic)
-
+7. Dates with no logins
+   
 ## 🛠️ Tools Used
 - SQL Server
 - Recursive CTEs, Window Functions
